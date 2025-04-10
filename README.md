@@ -1,14 +1,6 @@
 <h1 align="center">Hi! 🖐🏻, I'm Intaan</h1>
 <h3 align="center">FrontEnd Developer Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=intaan15&theme=darkhub" alt="intaan15" />
-  </a>
-</p>
-
----
-
 ### 🌐 Connect with me:
 <p>
   <a href="https://linkedin.com/in/intaanlailatul" target="blank">
@@ -85,6 +77,14 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=intaan15&theme=darkhub" alt="intaan15" />
   </a>
 </p>
 
