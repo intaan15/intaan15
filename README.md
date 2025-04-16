@@ -97,6 +97,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intaan15&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=intaan15&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=intaan15&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
